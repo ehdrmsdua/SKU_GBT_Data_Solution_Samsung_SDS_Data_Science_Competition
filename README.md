@@ -2,6 +2,7 @@
 ## Topic: Regression Prediction of Apparel Process Data<br/>
 ## Period: 2024.11 - 2024.11 <br/>
 ## Prize: Gold Award<br/>
+#### + "This project is largely identical to the results of the individual project from the 24-2_SKU_IME_Data_Analysis_Contest ."<br/>
 
 ### Leader : <br/>
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
@@ -16,7 +17,7 @@ Hyeongseo Gim - Sungkyul Univ_Industrial Management Engineering <br/>
 ![상장스캔](https://github.com/user-attachments/assets/cdbe2d22-a3b2-4ecc-b7ab-fdd2db9f3596)
 
 ### Summary Preview:<br/>
-#### + "This project is largely identical to the results of the individual project from the 24-2_SKU_IME_Data_Analysis_Contest ."<br/>
+
 9 Pages / 24 Pages<br/>
 <br/>
 ![표지](https://github.com/user-attachments/assets/b898212d-a85e-4557-be92-325e389f3d9e)
