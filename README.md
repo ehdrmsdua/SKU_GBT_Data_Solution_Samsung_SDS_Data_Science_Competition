@@ -1,5 +1,5 @@
 # Title: University of Global Business and Technology - Data Science Competiton <br/>
-## Topic: Regression Prediction of Apparel Process Data<br/>
+## Topic: Regression Prediction of Apparel Process Data<br/> 
 ## Period: 2024.11 - 2024.11 <br/>
 ## Prize: Gold Award<br/>
 
